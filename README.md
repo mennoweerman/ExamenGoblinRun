@@ -1,4 +1,4 @@
-# Readme Goblin Run
+# Goblin Run
 
 In deze repository vind je de informatie over het project Goblin Run.
 
@@ -10,19 +10,15 @@ Het idee van onze game is dat je een goblin bent die in een vat door een medieva
 Geef per teammember aan welke game onderdelen je hebt geproduceerd. Doe dit met behulp van omschrijvingen visual sheets en screenshots.
 Maak ook een overzicht van alle onderdelen met een link naar de map waarin deze terug te vinden zijn.
 
-Bijv..
+Patricia Kuipers:
+  * Tilespawner
+    
+Menno Weerman:
+  * Playermovement
 
-Student X:
-  * [Wave System](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/some)
-  * [Some other mechanic X](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/mechanic_x)
-  * [Some other mechanic Y](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/mechanic_y)
-Student Y:
-  * Water Shader
-  * [Some textured and rigged model](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/assets/monsters)
-
-Student Z:
+Bart de Boer:
+  * Enemy AI Spawner & Movement
   * [Some beautifull script](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/beautifull)
-  * Some other Game object
 
 
 ## Wave System by Student X
