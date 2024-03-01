@@ -1,11 +1,9 @@
-# VoorbeeldExamenRepo
-Een voorbeeld repository voor het examenwerk
+# Readme Goblin Run
 
-In deze repository vind je de informatie over het examen project.
+In deze repository vind je de informatie over het project Goblin Run.
 
-Omschrijf de examenopdracht evt de klant en wat het doel voor de klant is.
-Omschrijf ook beknopt wat het idee van je game is. 
-Een complete en uitgebreide beschrijving komt in het functioneel ontwerp (onderdeel van de [wiki](https://github.com/erwinhenraat/VoorbeeldExamenRepo/wiki))
+De opdracht is om een hypercasual game te ontwikkelen. Het doel voor de klant (VooDoo Games) is om een nieuwe hypercasual game aan hun portfolio toe te voegen.
+Het idee van onze game is dat je een goblin bent die in een vat door een medieval wereld rolt om te ontsnappen aan ridders van een kasteel. Je moet zo lang mogelijk overleven en tegenstanders ontwijken.
 
 # Geproduceerde Game Onderdelen
 
