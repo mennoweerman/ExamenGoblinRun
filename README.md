@@ -5,7 +5,7 @@ In deze repository vind je de informatie over het examen project.
 
 Omschrijf de examenopdracht evt de klant en wat het doel voor de klant is.
 Omschrijf ook beknopt wat het idee van je game is. 
-Een complete en uitgebreide beschrijving komt in het functioneel ontwerp (onderdeel van de [wiki](https://github.com/erwinhenraat/VoorbeeldExamenRepo/wiki))
+Een complete en uitgebreide beschrijving komt in het functioneel ontwerp (onderdeel van de [wiki](https://github.com/mennoweerman/ExamenGoblinRun/wiki/Examen-Documentatie-Wiki))
 
 # Geproduceerde Game Onderdelen
 
@@ -14,18 +14,26 @@ Maak ook een overzicht van alle onderdelen met een link naar de map waarin deze 
 
 Bijv..
 
-Student X:
+Menno Weerman:
+  * [Player Movement](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/some)
+
+Patricia Kuipers:
+  * [Mapgeneratie](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/assets/monsters)
+
+Bart de Boer:
+  * [Chasing AI](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/beautifull)
+
+Xavi Fijnhaar:
   * [Wave System](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/some)
   * [Some other mechanic X](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/mechanic_x)
   * [Some other mechanic Y](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/mechanic_y)
-Student Y:
+Suzan Maas:
   * Water Shader
   * [Some textured and rigged model](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/assets/monsters)
 
-Student Z:
+Megan Gansevoort:
   * [Some beautifull script](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/beautifull)
   * Some other Game object
-
 
 ## Wave System by Student X
 
