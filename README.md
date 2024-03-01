@@ -11,19 +11,19 @@ Geef per teammember aan welke game onderdelen je hebt geproduceerd. Doe dit met 
 Maak ook een overzicht van alle onderdelen met een link naar de map waarin deze terug te vinden zijn.
 
 Patricia Kuipers:
-  * Tilespawner
+  * [Tilespawner](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Features/TileSpawner)
     
 Menno Weerman:
-  * Playermovement
+  * [Playermovement](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Blueprints)
 
 Bart de Boer:
-  * Enemy AI Spawner & Movement
-  * [Some beautifull script](https://github.com/erwinhenraat/VoorbeeldExamenRepo/tree/master/src/beautifull)
+  * [Enemy AI Spawner & Movement](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Bart/EnemySpawner/GoblinRun/Content/Blueprints)
 
+## Tilespawner door Patricia Kuipers
 
-## Wave System by Student X
+Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten. Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet verminderd.
+![TileGif](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/9fc4873f-e159-425a-bda0-f2682bcb9ddf)
 
-Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line.
 
 ![Animation](https://user-images.githubusercontent.com/1262745/217570184-90dc4701-d60d-4816-80d0-5007fdd3f6be.gif)
 
