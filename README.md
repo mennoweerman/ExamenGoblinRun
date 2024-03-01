@@ -21,11 +21,10 @@ Bart de Boer:
 
 ## Tilespawner door Patricia Kuipers
 
-Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten. Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet verminderd.
+Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten. Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert.
+
 ![TileGif](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/9fc4873f-e159-425a-bda0-f2682bcb9ddf)
 
-
-![Animation](https://user-images.githubusercontent.com/1262745/217570184-90dc4701-d60d-4816-80d0-5007fdd3f6be.gif)
 
 ### flowchart voor enemy wave system:
 ```mermaid
