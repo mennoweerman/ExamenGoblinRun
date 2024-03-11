@@ -1,4 +1,4 @@
-![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b954c7db-2798-48bf-bf8b-9b99f9d15666)# Goblin Run
+# Goblin Run
 
 In deze repository vind je de informatie over het project Goblin Run.
 
