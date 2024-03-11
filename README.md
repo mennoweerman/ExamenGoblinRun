@@ -1,4 +1,4 @@
-# Goblin Run
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b954c7db-2798-48bf-bf8b-9b99f9d15666)# Goblin Run
 
 In deze repository vind je de informatie over het project Goblin Run.
 
@@ -24,9 +24,11 @@ Xavi Fijnhaar:
 
 ## Tilespawner door Patricia Kuipers
 
-Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten. Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert.
+Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. 
 
-![TileGif](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/9fc4873f-e159-425a-bda0-f2682bcb9ddf)
+![ezgif-5-73ddc364c8](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/2175bbe4-ec23-43a6-bb06-98921f04f4d2)
+
+De radius van tiles die er om de speler heen moeten spawnen is makkelijk aan te passen in de editor door een integer variabele. Ook heeft elke kant van een tile (boven, rechts, onder en links) een boolean voor weg, water en land. Deze kun je aanvinken als die er aan mogen. Op basis daarvan wordt bepaald welke tiles er ingespawnt mogen worden.
 
 ![VisualSheetMapGeneration](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b49048cc-c0e5-4f1e-ac07-dc7679c3be2f)
 
