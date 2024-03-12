@@ -11,7 +11,7 @@ Geef per teammember aan welke game onderdelen je hebt geproduceerd. Doe dit met 
 Maak ook een overzicht van alle onderdelen met een link naar de map waarin deze terug te vinden zijn.
 
 Patricia Kuipers:
-  * [Tilespawner](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Features/TileSpawner)
+  * [Wereldgenerator](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Features/TileSpawner)
     
 Menno Weerman:
   * [Playermovement](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Blueprints)
@@ -22,13 +22,13 @@ Bart de Boer:
 Xavi Fijnhaar:
   * [Placeholder Art](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Art/Placeholders)
 
-## Tilespawner door Patricia Kuipers
+## Wereldgenerator door Patricia Kuipers
 
-Patricia heeft een tilespawner gemaakt die een map willekeurig kan genereren. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. 
+Patricia heeft een wereldgenerator gemaakt die de ongeving willekeurig uit verschillende tiles creëert. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. De afstand hiervan is instelbaar.
 
 ![ezgif-5-73ddc364c8](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/2175bbe4-ec23-43a6-bb06-98921f04f4d2)
 
-De radius van tiles die er om de speler heen moeten spawnen is makkelijk aan te passen in de editor door een integer variabele. Ook heeft elke kant van een tile (boven, rechts, onder en links) een boolean voor weg, water en land. Deze kun je aanvinken als die er aan mogen. Op basis daarvan wordt bepaald welke tiles er ingespawnt mogen worden.
+De radius van tiles die om de speler heen gegenereerd moeten worden is aan te passen door middel van een cijfer in de engine. Ook heeft elke kant van een tile (boven, rechts, onder en links) een vinkje waar je kan aangeven of er een weg, water of land tile aan vast mag zitten. Op basis daarvan wordt er bepaald welke tiles er ingespawnt mogen worden.
 
 ![VisualSheetMapGeneration](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b49048cc-c0e5-4f1e-ac07-dc7679c3be2f)
 
