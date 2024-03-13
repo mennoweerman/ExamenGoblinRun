@@ -14,7 +14,12 @@ Patricia Kuipers:
   * [Wereldgenerator](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Features/TileSpawner)
     
 Menno Weerman:
-  * [Playermovement](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Blueprints)
+  * [Player Movement](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/PlayerMovement)
+  * [Score System](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/ScoreSystem)
+  * [Player Death](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/PlayerDeath)
+  * [Main Menu](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/UI/MainMenu)
+  * [Pause Menu](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/UI/PauseMenu)
+  * [Miniature Camera Effect](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Menno/VFX/MiniatureEffect)
 
 Bart de Boer:
   * [Enemy AI Spawner & Movement](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Bart/EnemySpawner/GoblinRun/Content/Blueprints)
@@ -51,6 +56,40 @@ De playermovement zorgt ervoor dat de speler automatisch vooruit gaat en je met 
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
 
 Je versnelt langzaam naar de topsnelheid zodat het spel uitdagender is. Ook hebben we een goede middenweg gevonden voor de turnradius, zodat het niet te makkelijk maar ook niet te moeilijk manoeuvreren is.
+
+## Score System door Menno Weerman
+
+Het score systeem zorgt ervoor dat de speler een uitdaging in de game heeft. Je krijgt gebaseerd op je snelheid punten en kan daarmee proberen je highscore te verbreken als vorm van voldoening in de game. Je kan ook je highscore delen met je vrienden voor een vorm van competitie.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
+
+## Player Death door Menno Weerman
+
+De player death zorgt ervoor dat de speler dood kan gaan en het spel niet opeindig door gaat. Als je dood gaat krijg je een death screen voor je met je highscore en je uiteindelijke score. 
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
+
+Dit zorgt voor korte speelsessies, maar ook dat je steeds beter kan worden in de game om steeds een betere highscore te krijgen.
+
+## Main Menu door Menno Weerman
+
+De main menu zorgt ervoor dat je niet gelijk de game hoeft te spelen als je de game opstart. Hierin kan je de game beginnen of de game afsluiten. 
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
+
+## Pause Menu door Menno Weerman
+
+Het pause menu is bedoelt om tijdens het spel even de game te kunnen stoppen om iets anders te kunnen doen zonder je score kwijt te raken.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
+
+Door het pause scherm kan je de game verder laten gaan, en terug naar de main menu gaan.
+
+## Miniature Camera effect door Menno Weerman
+
+Het camera effect zit op de speler om het effect te geven dat de speler heel klein is en een soort speelgoed is.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
 
 ## Placeholders door Xavi Fijnhaar
 
