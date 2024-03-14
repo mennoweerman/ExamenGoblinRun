@@ -23,9 +23,6 @@ Menno Weerman:
 Bart de Boer:
   * [Enemy AI Spawner & Movement](https://github.com/mennoweerman/ExamenGoblinRun/tree/feature/Bart/EnemySpawner/GoblinRun/Content/Blueprints)
 
-Xavi Fijnhaar:
-  * [Placeholder Art](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Art/Placeholders)
-
 ## Wereldgenerator door Patricia Kuipers
 
 Patricia heeft een wereldgenerator gemaakt die de omgeving willekeurig uit verschillende tiles creëert. Hieronder zie je een afbeelding van een wereld die ermee is gemaakt.
@@ -95,12 +92,3 @@ Het pause menu kun je bereiken door de pause knop rechts boven in je scherm te d
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 27 01_36a33ccf](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/eeb660bc-5c52-4d9c-a697-0b56f254daa9)
 
 Door het pause scherm kan je de game verder laten gaan, en terug naar de main menu gaan.
-
-## Placeholders door Xavi Fijnhaar
-
-Xavi heeft placeholders gemaakt voor de speler en de wereld zodat de developers zo snel mogelijk konden beginnen met het ontwikkelen en testen van de game.
-
-![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/46b8a3fa-8a18-48b6-84d0-7390dc2c6b2d)
-
-
-
