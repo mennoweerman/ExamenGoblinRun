@@ -41,6 +41,9 @@ Hieronder zie je hoe de tiles despawnen met een de variabele "Despawn Distance" 
 
 https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/d206ba7b-284d-4a4b-a272-c754d27833c3
 
+Dit is hoe ze despawnen als die waarde op 25000 staat.
+
+https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/00b51436-a4ea-48d6-b5c7-2291ae66b85c
 
 De radius van tiles die om de speler heen gegenereerd moeten worden is aan te passen door middel van een integer die aangepast kan worden in de engine.
 
