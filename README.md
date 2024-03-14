@@ -5,7 +5,7 @@ In deze repository vind je de informatie over het project Goblin Run.
 De opdracht is om een hypercasual game te ontwikkelen. Het doel voor de klant (VooDoo Games) is om een nieuwe hypercasual game aan hun portfolio toe te voegen.
 Het idee van onze game is dat je een goblin bent die in een vat door een medieval wereld rolt om te ontsnappen aan ridders van een kasteel. Je moet zo lang mogelijk overleven en tegenstanders ontwijken. Dit geeft je punten, en je kunt een highscore krijgen. 
 
-We gaan een verdienmodel met advertenties bouwen die terugkomen op de deathscreen.
+We gaan een verdienmodel met advertenties gebruiken die terugkomen op de deathscreen.
 
 # Geproduceerde Game Onderdelen
 
