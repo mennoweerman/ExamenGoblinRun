@@ -61,6 +61,7 @@ Je versnelt langzaam naar de topsnelheid zodat het spel uitdagender is. Ook hebb
 
 Het score systeem zorgt ervoor dat de speler een uitdaging in de game heeft. Je krijgt gebaseerd op je snelheid punten en kan daarmee proberen je highscore te verbreken als vorm van voldoening in de game. Je kan ook je highscore delen met je vrienden voor een vorm van competitie.
 
+![image](![alt text](<Afbeelding van WhatsApp op 2024-03-14 om 10.20.59_c097a755.jpg>))
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b752cdfb-65ca-4637-839b-90a77fca538e)
 
 ## Player Death door Menno Weerman
