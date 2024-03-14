@@ -33,7 +33,11 @@ De tiles spawnen normaal alleen om de speler heen. Zodra de speler een tile aanr
 
 ![Tile_01](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5b921e7a-d8f1-49f4-b552-92830975bb31)
 
-In de scene staat een object genaamd Tile Manager die een lijst bevat met elke alle tiles die ingespawnt kunnen worden. Hij wordt ook daadwerkelijk bij het inspawnen van nieuwe tiles gemaakt. Dit zijn niet alle tiles van de game, want de kasteeltiles willen we niet willekeurig in de wereld spawnen. Als er nieuwe tiles aan de game toegevoegd worden, hoeven er maar twee dingen gedaan te worden om ze werkend te krijgen: een nieuwe blueprint van elke tile aanmaken met de juiste instellingen per kant en de blueprint in deze lijst toevoegen. Daarna kan hij automatisch goed in de wereld gezet worden.
+In de scene staat een object genaamd Tile Manager. Deze bevat een lijst met alle tiles die ingespawnt kunnen worden. Hij wordt ook daadwerkelijk bij het inspawnen van nieuwe tiles gebruikt. 
+
+Dit zijn niet alle tiles van de game, want de kasteeltiles willen we niet willekeurig in de wereld spawnen. 
+
+Als er nieuwe tiles aan de game toegevoegd worden, hoeven er maar twee dingen gedaan te worden om ze werkend te krijgen: een nieuwe blueprint van elke tile aanmaken met de juiste instellingen per kant, en de blueprint in deze lijst toevoegen. Daarna kan hij automatisch goed in de wereld gezet worden.
 
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/546196d5-1916-4446-b972-e5b7c31df021)
 
