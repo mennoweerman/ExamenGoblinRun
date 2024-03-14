@@ -29,7 +29,11 @@ Xavi Fijnhaar:
 
 ## Wereldgenerator door Patricia Kuipers
 
-Patricia heeft een wereldgenerator gemaakt die de ongeving willekeurig uit verschillende tiles creëert. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. De afstand hiervan is instelbaar.
+Patricia heeft een wereldgenerator gemaakt die de ongeving willekeurig uit verschillende tiles creëert. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Deze limitaties kun je per tile in de editor instellen, door middel van een map met een Enumerator van "boven", "rechts", "links", "beneden" en een Struct van 3 booleans, "land", "water" en "weg".
+
+![Tile_01](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5b921e7a-d8f1-49f4-b552-92830975bb31)
+
+Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. De afstand hiervan is instelbaar.
 
 ![ezgif-5-73ddc364c8](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/2175bbe4-ec23-43a6-bb06-98921f04f4d2)
 
