@@ -7,9 +7,6 @@ Het idee van onze game is dat je een goblin bent die in een vat door een medieva
 
 # Geproduceerde Game Onderdelen
 
-Geef per teammember aan welke game onderdelen je hebt geproduceerd. Doe dit met behulp van omschrijvingen visual sheets en screenshots.
-Maak ook een overzicht van alle onderdelen met een link naar de map waarin deze terug te vinden zijn.
-
 Patricia Kuipers:
   * [Wereldgenerator](https://github.com/mennoweerman/ExamenGoblinRun/tree/develop/GoblinRun/Content/Features/TileSpawner)
     
@@ -63,28 +60,26 @@ Je versnelt langzaam naar de topsnelheid zodat het spel uitdagender is. Ook hebb
 
 ## Score System door Menno Weerman
 
-Het score systeem zorgt ervoor dat de speler een uitdaging in de game heeft. Je krijgt gebaseerd op je snelheid punten en kan daarmee proberen je highscore te verbreken als vorm van voldoening in de game. Je kan ook je highscore delen met je vrienden voor een vorm van competitie. Als je de maximum snelheid rijd word je tekst goud en krijg je extra punten.
+Je krijgt gebaseerd op je snelheid punten. Je krijgt gemiddeld 1 punt per seconde als je niet stil staat. Als je de maximum snelheid rijd word je tekst goud en krijg je 3 keer zoveel punten. 
 
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 21 14_387a9f90](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/eef0f5d2-c61b-4ec8-a038-13cb09c6b407)
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 20 59_5dc20b12](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/41f0d89d-54bc-41a9-95f8-efb9957867f5)
 
 ## Player Death door Menno Weerman
 
-De player death zorgt ervoor dat de speler dood kan gaan en het spel niet opeindig door gaat. Als je dood gaat krijg je een death screen voor je met je highscore en je uiteindelijke score. 
+Als je dood gaat krijg je een death screen voor je met je highscore en je uiteindelijke score. Hier kan je de game opnieuw spelen of terug naar de main menu gaan.
 
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 29 22_fe4dd0ed](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/91e3bd64-ecdc-4363-915b-ca830ba69a60)
 
-Dit zorgt voor korte speelsessies, maar ook dat je steeds beter kan worden in de game om steeds een betere highscore te krijgen.
-
 ## Main Menu door Menno Weerman
 
-De main menu zorgt ervoor dat je niet gelijk de game hoeft te spelen als je de game opstart. Hierin kan je de game beginnen of de game afsluiten. 
+Als je de game opstart kom je op de main menu terecht zodat je de game niet gelijk hoeft te starten. Hierin kan je de game beginnen of de game afsluiten. 
 
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 30 16_68051b76](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/a2914477-3b21-4989-a5e2-2c5547d5859f)
 
 ## Pause Menu door Menno Weerman
 
-Het pause menu is bedoelt om tijdens het spel even de game te kunnen stoppen om iets anders te kunnen doen zonder je score kwijt te raken.
+Het pause menu kun je bereiken door de pause knop rechts boven in je scherm te drukken tijdens het spelen. Hierdoor zou je game pauzeren en zal je je score niet kwijtraken als je de game niet afsluit.
 
 ![Afbeelding van WhatsApp op 2024-03-14 om 10 27 01_36a33ccf](https://github.com/mennoweerman/ExamenGoblinRun/assets/70953228/eeb660bc-5c52-4d9c-a697-0b56f254daa9)
 
