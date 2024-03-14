@@ -57,6 +57,11 @@ Dit is hoe ze despawnen als die waarde op 25000 staat.
 
 https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/00b51436-a4ea-48d6-b5c7-2291ae66b85c
 
+Ten slotte staat er een "Backup Tile" variabele in de Tile blueprint. Deze is voor de zeldzame gevallen waarin er geen passende tile tussen andere tiles in gespawnt kan worden, en er voor een andere optie gekozen moet worden. Dit omdat het spawnsysteem erg complex geworden is, en er niet met alles rekening gehouden kon worden.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/9ddc0e1a-0887-4cfa-a714-7d9e391a10a9)
+
+
 ## Enemy AI Spawner & Movement door Bart de Boer
 
 Het enemy spawnsysteem zorgt ervoor dat in de 4 hoeken van het scherm vijanden worden ingespawnt.
