@@ -33,6 +33,10 @@ De tiles spawnen normaal alleen om de speler heen. Zodra de speler een tile aanr
 
 ![Tile_01](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5b921e7a-d8f1-49f4-b552-92830975bb31)
 
+In de scene staat een object genaamd Tile Manager die een lijst bevat met elke alle tiles die ingespawnt kunnen worden. Hij wordt ook daadwerkelijk bij het inspawnen van nieuwe tiles gemaakt. Dit zijn niet alle tiles van de game, want de kasteeltiles willen we niet willekeurig in de wereld spawnen. Als er nieuwe tiles aan de game toegevoegd worden, hoeven er maar twee dingen gedaan te worden om ze werkend te krijgen: een nieuwe blueprint van elke tile aanmaken met de juiste instellingen per kant en de blueprint in deze lijst toevoegen. Daarna kan hij automatisch goed in de wereld gezet worden.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/546196d5-1916-4446-b972-e5b7c31df021)
+
 Tiles die ver van de speler zitten worden weer verwijderd. Dit doen we om goede performance in de game te behouden. De afstand waarop tiles van de speler despawnen kan makkelijk worden ingesteld door middel van een float in de engine.
 
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/74f103bf-703f-4ef2-8a60-0ec7411dba7e)
@@ -44,10 +48,6 @@ https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/d206ba7b-284d-4a
 Dit is hoe ze despawnen als die waarde op 25000 staat.
 
 https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/00b51436-a4ea-48d6-b5c7-2291ae66b85c
-
-De radius van tiles die om de speler heen gegenereerd moeten worden is aan te passen door middel van een integer die aangepast kan worden in de engine.
-
-![VisualSheetMapGeneration](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/b49048cc-c0e5-4f1e-ac07-dc7679c3be2f)
 
 ## Enemy AI Spawner & Movement door Bart de Boer
 
