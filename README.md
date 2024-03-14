@@ -28,13 +28,17 @@ Xavi Fijnhaar:
 
 ## Wereldgenerator door Patricia Kuipers
 
-Patricia heeft een wereldgenerator gemaakt die de ongeving willekeurig uit verschillende tiles creëert. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen met bepaalde limitaties zodat ze goed op elkaar aansluiten (wegen, water en land). Deze limitaties kun je per tile in de editor instellen, door middel van een map met een Enumerator van "boven", "rechts", "links", "beneden" en een Struct van 3 booleans, "land", "water" en "weg".
+Patricia heeft een wereldgenerator gemaakt die de ongeving willekeurig uit verschillende tiles creëert. Hieronder zie je een afbeelding van een wereld die ermee is gemaakt.
+
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5e453e84-9c10-4fa9-9d6a-7df72a606fff)
+
+De tiles spawnen normaalgesproken alleen om de speler heen. Zodra de speler een tile aanraakt, spawnen er nieuwe tiles omheen. Deze hebben bepaalde limitaties zodat ze aan alle kanten goed op elkaar aansluiten. Deze limitaties kun je per tile in de editor instellen, door middel van een map met een Enumerator van "boven", "rechts", "links", "onder" en een Struct van 3 booleans, "land", "water" en "weg".
 
 ![Tile_01](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5b921e7a-d8f1-49f4-b552-92830975bb31)
 
-Ook worden tiles die ver van de speler zitten weer verwijderd, zodat het de performance niet vermindert. De afstand hiervan is instelbaar.
+Tiles die ver van de speler zitten worden weer verwijderd. Dit doen we om goede performance in de game te behouden. De afstand waarop tiles van de speler despawnen kan makkelijk worden ingesteld door middel van een float in de engine.
 
-![ezgif-5-73ddc364c8](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/2175bbe4-ec23-43a6-bb06-98921f04f4d2)
+![ezgif-7-1d2d9ef310](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/eb7ed355-755b-4f49-8023-b115a6e226ac)
 
 De radius van tiles die om de speler heen gegenereerd moeten worden is aan te passen door middel van een cijfer in de engine. Ook heeft elke kant van een tile (boven, rechts, onder en links) een vinkje waar je kan aangeven of er een weg, water of land tile aan vast mag zitten. Op basis daarvan wordt er bepaald welke tiles er ingespawnt mogen worden.
 
