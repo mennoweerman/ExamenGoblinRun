@@ -38,7 +38,12 @@ De tiles spawnen normaal alleen om de speler heen. Zodra de speler een tile aanr
 
 Tiles die ver van de speler zitten worden weer verwijderd. Dit doen we om goede performance in de game te behouden. De afstand waarop tiles van de speler despawnen kan makkelijk worden ingesteld door middel van een float in de engine.
 
+![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/74f103bf-703f-4ef2-8a60-0ec7411dba7e)
+
+Hieronder zie je hoe de tiles despawnen met een de variabele "Despawn Distance" op de waarde 5000. 
+
 https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/d206ba7b-284d-4a4b-a272-c754d27833c3
+
 
 De radius van tiles die om de speler heen gegenereerd moeten worden is aan te passen door middel van een integer die aangepast kan worden in de engine.
 
