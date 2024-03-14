@@ -29,7 +29,11 @@ Patricia heeft een wereldgenerator gemaakt die de omgeving willekeurig uit versc
 
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5e453e84-9c10-4fa9-9d6a-7df72a606fff)
 
-De tiles spawnen normaal alleen om de speler heen. Zodra de speler een tile aanraakt, spawnen er op de vrije plekken nieuwe tiles omheen. Deze hebben bepaalde limitaties zodat ze aan alle kanten goed op elkaar aansluiten. De limitaties kun je per tile in de editor instellen, door middel van een map met een Enumerator van "boven", "rechts", "onder" en "links" en een Struct van 3 booleans, "land", "weg" en "water". Hier kun je er dus één van aanvinken, om aan te geven per kant dat dat hetgene is wat er tegenaan mag spawnen. De pijl geeft de "boven" richting van een tile aan, zie het plaatje hieronder.
+De tiles spawnen normaal alleen om de speler heen. Zodra de speler een tile aanraakt, spawnen er op de vrije plekken nieuwe tiles omheen. 
+
+Tiles hebben bepaalde limitaties zodat ze aan alle kanten goed op elkaar aansluiten. De limitaties kun je per tile in de editor instellen, door middel van een map met een Enumerator van "boven", "rechts", "onder" en "links" en een Struct van 3 booleans, "land", "weg" en "water". Hier kun je er dus één van aanvinken, om aan te geven per kant dat dat hetgene is wat er tegenaan mag spawnen. 
+
+De pijl geeft de "boven" richting van een tile aan, zie het plaatje hieronder.
 
 ![Tile_01](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/5b921e7a-d8f1-49f4-b552-92830975bb31)
 
