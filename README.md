@@ -49,7 +49,7 @@ Tiles die ver van de speler zitten worden weer verwijderd. Dit doen we om goede 
 
 ![image](https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/74f103bf-703f-4ef2-8a60-0ec7411dba7e)
 
-Hieronder zie je hoe de tiles despawnen met een de variabele "Despawn Distance" op de waarde 5000. 
+Hieronder zie je hoe de tiles despawnen met de variabele "Despawn Distance" op de waarde 5000. 
 
 https://github.com/mennoweerman/ExamenGoblinRun/assets/54790202/d206ba7b-284d-4a4b-a272-c754d27833c3
 
